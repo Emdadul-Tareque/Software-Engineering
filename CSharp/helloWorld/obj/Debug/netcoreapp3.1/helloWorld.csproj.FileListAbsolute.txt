@@ -1,0 +1,13 @@
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/bin/Debug/netcoreapp3.1/helloWorld
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.deps.json
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.json
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.dev.json
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.dll
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.pdb
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csprojAssemblyReference.cache
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfoInputs.cache
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfo.cs
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csproj.CoreCompileInputs.cache
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.dll
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.pdb
+/home/emdadul-tareque/Desktop/CSharp/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.genruntimeconfig.cache

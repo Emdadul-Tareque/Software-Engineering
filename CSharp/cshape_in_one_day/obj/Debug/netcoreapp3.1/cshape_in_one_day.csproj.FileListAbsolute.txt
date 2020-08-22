@@ -1,0 +1,13 @@
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/bin/Debug/netcoreapp3.1/cshape_in_one_day
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/bin/Debug/netcoreapp3.1/cshape_in_one_day.deps.json
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/bin/Debug/netcoreapp3.1/cshape_in_one_day.runtimeconfig.json
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/bin/Debug/netcoreapp3.1/cshape_in_one_day.runtimeconfig.dev.json
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/bin/Debug/netcoreapp3.1/cshape_in_one_day.dll
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/bin/Debug/netcoreapp3.1/cshape_in_one_day.pdb
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/obj/Debug/netcoreapp3.1/cshape_in_one_day.csprojAssemblyReference.cache
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/obj/Debug/netcoreapp3.1/cshape_in_one_day.AssemblyInfoInputs.cache
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/obj/Debug/netcoreapp3.1/cshape_in_one_day.AssemblyInfo.cs
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/obj/Debug/netcoreapp3.1/cshape_in_one_day.csproj.CoreCompileInputs.cache
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/obj/Debug/netcoreapp3.1/cshape_in_one_day.dll
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/obj/Debug/netcoreapp3.1/cshape_in_one_day.pdb
+/home/emdadul-tareque/Desktop/CSharp/cshape_in_one_day/obj/Debug/netcoreapp3.1/cshape_in_one_day.genruntimeconfig.cache
